@@ -17,3 +17,7 @@ write them back in the following folder structure: `year=<YEAR>/month=<MONTH>/da
  * Implement the missing pieces
  * Compile: `mvn clean compile` 
  * Run the job: `mvn exec:java -Dexec.mainClass=com.aroch.spark.Ex1 -Dexec.args="src/main/resources/Ex1"`
+ 
+### Notes
+ * If you're on Windows and encounter this Exception: `java.io.IOException: Could not locate executable null\bin\winutils.exe in the Hadoop binaries.` <br>
+   take a look [here](https://stackoverflow.com/questions/35652665/java-io-ioexception-could-not-locate-executable-null-bin-winutils-exe-in-the-ha). 
