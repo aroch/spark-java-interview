@@ -1,0 +1,9 @@
+time,type,uid,country
+1533134420,click,user-1,IL
+1533220820,click,user-2,IL
+1533307220,click,user-34,IL
+1533292820,click,user-334,IL
+1533566420,click,user-113,IL
+1533134420,click,user-532,IL
+1533220820,click,user-23,IL
+1533292820,click,user-1,IL

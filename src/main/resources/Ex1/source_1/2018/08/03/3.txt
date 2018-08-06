@@ -1,0 +1,9 @@
+time,type,uid,country
+02 Aug 2018 09:37:00 GMT,click,user-1,IL
+01 Aug 2018 10:37:00 GMT,click,user-2,IL
+01 Aug 2018 09:37:00 GMT,click,user-34,IL
+03 Aug 2018 09:17:12 GMT,click,user-334,IL
+01 Aug 2018 09:20:43 GMT,click,user-113,IL
+02 Aug 2018 09:01:45 GMT,click,user-532,IL
+01 Aug 2018 19:37:23 GMT,click,user-23,IL
+03 Aug 2018 01:00:32 GMT,click,user-1,IL

@@ -1,0 +1,3 @@
+time,type,uid,country
+1533220850,click,user-29992,IL
+1533220860,click,user-9999,IL
