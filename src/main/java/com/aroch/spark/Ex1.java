@@ -30,5 +30,7 @@ public class Ex1 {
         SQLContext sqlContext = new SQLContext(context);
 
         // Implement Job
+
+        context.stop();
     }
 }
